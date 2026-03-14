@@ -1,5 +1,5 @@
 build:
   id: 202020
   version: 1000.2.3
-  name: "PROD-Production-build from GIT prod profile"
+  name: "UPDATED PROD-Production-build from GIT prod profile"
   type: "PROD env with configdemo-dev.yml file build with GIT in PROD profile"
